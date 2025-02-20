@@ -1,2 +1,3 @@
+role,NetID,LastName,FirstName
 boss,hzhao362,Zhao,Hongbo
 employee,tli366,Li,Tianjia
